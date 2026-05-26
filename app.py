@@ -2,7 +2,6 @@ import streamlit as st
 import time
 st.title('나는 짱이다')
 st.write('바이브코딩 재미있다!!')
-st.write('중간에 놓쳤는데 김진영꺼 복붙하기 야아르으')
 st.set_page_config(
     page_title="AI 학습 유형 분석",
     page_icon="📚",
